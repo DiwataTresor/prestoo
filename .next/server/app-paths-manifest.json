@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/module_restaurant/page": "app/module_restaurant/page.js",
+  "/module_fitness/page": "app/module_fitness/page.js",
+  "/module_hotel/page": "app/module_hotel/page.js",
+  "/module_parametre/page": "app/module_parametre/page.js"
+}
